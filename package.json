@@ -1,7 +1,7 @@
 {
-  "name": "africalizhair-backend",
+  "name": "FJU-Server",
   "version": "1.0.0",
-  "description": "Controle financeiro AfricalizHair",
+  "description": "serviço interno para gerenciamento de contatos e serviços",
   "main": "index.js",
   "scripts": {
     "test": "test start",
