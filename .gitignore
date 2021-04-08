@@ -1,6 +1,5 @@
 node_modules
-db-config.js
-server-config.js
+config
 # Logs
 logs
 *.log
